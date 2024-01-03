@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "301831296240",
+    "project_id": "trendshubtask",
+    "storage_bucket": "trendshubtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301831296240:android:f41472d1216dc050d21e35",
+        "android_client_info": {
+          "package_name": "com.taskandroid.trends_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301831296240-k6kicq0h66po8f8mbdgo7anh82pcrf10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taskandroid.trends_hub",
+            "certificate_hash": "0fad40448bbb0c132e061f11d5bfaf556b43f6f5"
+          }
+        },
+        {
+          "client_id": "301831296240-d7ua93ff2rt7lvn2pbp5omkfpjen8klf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC6QOTGvFdD_WNMUywTaGiqwtUUdcpWaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301831296240-d7ua93ff2rt7lvn2pbp5omkfpjen8klf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301831296240-43s1720j1l92vbe1bmfk94hv5i339kut.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.taskios.trendsHub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

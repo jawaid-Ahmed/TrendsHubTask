@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>301831296240-43s1720j1l92vbe1bmfk94hv5i339kut.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.301831296240-43s1720j1l92vbe1bmfk94hv5i339kut</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>301831296240-k6kicq0h66po8f8mbdgo7anh82pcrf10.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVBlYldqxaLfrkeU0h_cWFrWOYlCRUROY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>301831296240</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.taskios.trendsHub</string>
+	<key>PROJECT_ID</key>
+	<string>trendshubtask</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trendshubtask.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:301831296240:ios:4fac6727f79c1897d21e35</string>
+</dict>
+</plist>
